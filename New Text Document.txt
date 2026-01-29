@@ -1,0 +1,11 @@
+Time in ns
+Naive matrix multiplication-10119557 
+Global Coalescing- 2413587
+Shared Memory-1081071 
+1d Blocktiling- 810417
+2d blocktiling - 665077 
+vectorize- 641653
+bankconflict- 648341 
+autotune-partiall warptile- 508792
+warptiling-  546840
+cublas- 218876 
